@@ -133,7 +133,7 @@ border: 2px solid black;
 		text-align: center;
 	}		
 
-
+	/* This is for the second part of the project*/
 
 	#about-header{
 		display: flex;
@@ -144,11 +144,64 @@ border: 2px solid black;
 
 
 
-
-
 	#services-heading {
 		padding: 10px 10px;
 		margin: 15px 15px;
 		border-bottom: 1px solid black;
 
 }	
+
+	.big-section {
+		padding: 20px 20px;
+		display: flex;
+		flex-wrap: wrap;
+		
+	}
+
+	.digital-design {
+		border: 2px solid black;
+		width: 350px;
+		height: 200px;
+		padding: 10px 10px;
+		background-color: lightgray
+	}
+
+	.UX-design {
+		border: 2px solid black;
+		width: 350px;
+		height: 200px;
+		padding: 10px 10px;
+		background-color: lightgray
+	}
+
+	.digital-marketing {
+		border: 2px solid black;
+		width: 350px;
+		height: 200px;
+		padding: 10px 10px;
+		background-color: lightgray
+	}
+
+	.web-dev {
+		border: 2px solid black;
+		width: 350px;
+		height: 200px;
+		padding: 10px 10px;
+		background-color: lightgray
+	}
+
+	.ios-dev {
+		border: 2px solid black;
+		width: 350px;
+		height: 200px;
+		padding: 10px 10px;
+		background-color: lightgray
+	}
+
+	.android {
+		border: 2px solid black;
+		width: 350px;
+		height: 200px;
+		padding: 10px 10px;
+		background-color: lightgray
+	}
