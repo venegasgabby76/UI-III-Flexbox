@@ -132,3 +132,23 @@ border: 2px solid black;
 		margin: 30px ;
 		text-align: center;
 	}		
+
+
+
+	#about-header{
+		display: flex;
+		justify-content: space-around;
+		word-spacing: 25px;
+		color: lightgray;
+	}
+
+
+
+
+
+	#services-heading {
+		padding: 10px 10px;
+		margin: 15px 15px;
+		border-bottom: 1px solid black;
+
+}	
