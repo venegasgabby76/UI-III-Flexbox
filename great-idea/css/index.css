@@ -151,6 +151,12 @@ border: 2px solid black;
 	}
 
 
+	.brand-logo{
+		width: auto; 
+		height: 5%;
+	}
+
+
 
 	#services-heading {
 		margin: 10px;
@@ -248,29 +254,27 @@ border: 2px solid black;
 	.ending-content{
 		padding: 30px;
 		margin: 50px 50 px;
-		column-gap: 15px;
-		justify-content: stretch;
-		text-align: justify;
-		align-content: center;
+		column-gap: 20px;
+		display: flex; 
+
 	}
 
 
 	.service-facts {
-		border:  1px solid black;
 		width: 350px;
 		padding: 10px 10px;
 
 	}
 
 	.list {
-		border: 1px solid black;
 		padding: 10px 10px;
 	
 
 	}
 
 	.picture { 
-		padding: 10px; 
+			width: 70px;
+			height: 300px;
 		
 	}
 
