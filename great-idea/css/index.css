@@ -145,63 +145,116 @@ border: 2px solid black;
 
 
 	#services-heading {
-		padding: 10px 10px;
-		margin: 15px 15px;
-		border-bottom: 1px solid black;
+		margin: 10px;
+		border-bottom: 2px solid black;
+		padding: 25px;
 
 }	
 
 	.big-section {
-		padding: 20px 20px;
+		padding: 10px 10px;
+		margin: 50px 50 px;
+		column-gap: 15px;
 		display: flex;
 		flex-wrap: wrap;
+		justify-content: stretch;
+		text-align: justify;
 		
 	}
 
 	.digital-design {
-		border: 2px solid black;
+		border: 1px solid black;
 		width: 350px;
 		height: 200px;
 		padding: 10px 10px;
+		margin: 10px 10px;
 		background-color: lightgray
+		
+		
 	}
 
 	.UX-design {
-		border: 2px solid black;
+		border: 1px solid black;
 		width: 350px;
 		height: 200px;
 		padding: 10px 10px;
+		margin: 10px 10px;
 		background-color: lightgray
+		
 	}
 
+
+
 	.digital-marketing {
-		border: 2px solid black;
+		border: 1px solid black;
 		width: 350px;
 		height: 200px;
 		padding: 10px 10px;
+		margin: 10px 10px;
 		background-color: lightgray
+		
 	}
 
 	.web-dev {
-		border: 2px solid black;
+		border: 1px solid black;
 		width: 350px;
 		height: 200px;
 		padding: 10px 10px;
+		margin: 10px 10px;
 		background-color: lightgray
 	}
 
 	.ios-dev {
-		border: 2px solid black;
+		border: 1px solid black;
 		width: 350px;
 		height: 200px;
 		padding: 10px 10px;
+		margin: 10px 10px;
 		background-color: lightgray
 	}
 
 	.android {
-		border: 2px solid black;
+		border: 1px solid black;
 		width: 350px;
 		height: 200px;
 		padding: 10px 10px;
+		margin: 10px 10px;
 		background-color: lightgray
+	}
+
+
+
+	.btn1, .btn2, .btn3, .btn4, .btn5, .btn6{
+		
+		margin-top: 10px;
+		border: none
+  		padding: 15px 32px;
+  		text-align: center;
+  		display: inline-block;
+		border-radius: 8px;
+	
+	}
+
+	.ending-content{
+		display:inline;
+	}
+
+
+	.service-facts {
+		border:  1px solid black;
+		width: 350px;
+		padding: 10px 10px;
+
+	}
+
+	.list {
+		border: 1px solid black;
+		padding: 10px 10px;
+	
+
+	}
+
+	.picture { 
+		padding: 10px; 
+		
 	}
